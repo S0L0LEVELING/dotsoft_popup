@@ -14,3 +14,6 @@ client_scripts {
 files {
 	'web/*.*'
 }
+
+export 'Pop'
+export 'Hide'
